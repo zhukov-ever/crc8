@@ -1,3 +1,5 @@
+// source: https://github.com/isneft/CRC8
+
 import Foundation
 
 
